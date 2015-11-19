@@ -1,6 +1,8 @@
 # Ember Objects
 While you may never have to write your own Ember Object, you should know how they work since everything you'll be working with inherits from it.
 
+
+
 **Ember Models**
 ![Models Inherit from Ember.Object](https://readme-pics.s3.amazonaws.com/ember-model-from-object.png)
 **Ember Controllers**
